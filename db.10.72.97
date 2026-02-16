@@ -3,9 +3,9 @@ $TTL 1D
 @   IN  NS  ns1.skoda.com.
 
 1   IN  PTR r1.skoda.com.
-20  IN  PTR s1.skoda.com.
-30  IN  PTR ns1.skoda.com.
+17  IN  PTR s1.skoda.com.
 30  IN  PTR s2.skoda.com.
+30  IN  PTR ns1.skoda.com.
 30  IN  PTR ftp.skoda.com.
-100 IN  PTR imp1.skoda.com.
-101 IN  PTR imp2.skoda.com.
+33  IN  PTR imp1.skoda.com.
+34  IN  PTR imp2.skoda.com.
