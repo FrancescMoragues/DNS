@@ -1,10 +1,12 @@
 $TTL 1D
-@       IN      SOA     dmz1.erebor.com. admin.erebor.com. ( 1 604800 86400 2419200 86400 )
-@       IN      NS      dmz1.erebor.com.
+@   IN  SOA dmz1.erebor.com. admin.erebor.com. ( 2 604800 84600 2419200 84600 )
+@   IN  NS  dmz1.erebor.com.
 
-129     IN      PTR     ftp.erebor.com.
-129     IN      PTR     host1.erebor.com.
-130     IN      PTR     host2.erebor.com.
-131     IN      PTR     mail1.erebor.com.
-16      IN      PTR     intranet.erebor.com.
-117     IN      PTR     serv1.erebor.com.
+129 IN  PTR ftp.erebor.com.
+129 IN  PTR host1.erebor.com.
+130 IN  PTR host2.erebor.com.
+131 IN  PTR mail1.erebor.com.
+16  IN  PTR intranet.erebor.com.
+117 IN  PTR serv1.erebor.com.
+132 IN  PTR imp1.erebor.com.
+133 IN  PTR imp2.erebor.com.
