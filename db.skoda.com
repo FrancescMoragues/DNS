@@ -25,7 +25,5 @@ imp1    IN  A   10.72.97.33
 imp2    IN  A   10.72.97.34
 s1      IN  A   10.72.97.17
 
-; --- Registros CNAME (Alias) ---
-; Nota: h1.bentley.com debe ser resoluble o terminar en punto
 www      IN  CNAME h1.bentley.com.
 intranet IN  CNAME h1.bentley.com.
