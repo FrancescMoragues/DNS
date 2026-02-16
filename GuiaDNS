@@ -1,0 +1,6 @@
+Guía DNS Confirmació
+
+dig @localhost host1.erebor.com
+
+dig @localhost -x 55.234.17.129
+
