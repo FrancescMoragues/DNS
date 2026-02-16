@@ -1,9 +1,11 @@
-zone "erebor.com" {
+zone "skoda.com" {
     type master;
-    file "/etc/bind/db.erebor.com";
+    file "/etc/bind/db.skoda.com";
+    allow-transfer { 48.163.97.91; 48.163.97.93; }; 
 };
 
-zone "17.234.55.in-addr.arpa" {
+zone "97.72.10.in-addr.arpa" {
     type master;
-    file "/etc/bind/db.inversa";
+    file "/etc/bind/db.10.72.97";
+    allow-transfer { 48.163.97.91; 48.163.97.93; };
 };
