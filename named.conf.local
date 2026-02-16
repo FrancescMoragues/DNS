@@ -2,6 +2,7 @@ zone "erebor.com" {
     type master;
     file "/etc/bind/db.erebor.com";
 };
+
 zone "17.234.55.in-addr.arpa" {
     type master;
     file "/etc/bind/db.inversa";
