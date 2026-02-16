@@ -21,9 +21,9 @@ r1      IN  A   10.72.97.1
 ftp     IN  A   10.72.97.30
 mail1   IN  A   48.163.97.91
 mail2   IN  A   48.163.97.93
-imp1    IN  A   10.72.97.100 
-imp2    IN  A   10.72.97.101
-s1      IN  A   10.72.97.20
+imp1    IN  A   10.72.97.33 
+imp2    IN  A   10.72.97.34
+s1      IN  A   10.72.97.17
 
 ; --- Registros CNAME (Alias) ---
 ; Nota: h1.bentley.com debe ser resoluble o terminar en punto
