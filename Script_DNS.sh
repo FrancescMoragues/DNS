@@ -15,6 +15,6 @@ named-checkconf /etc/bind/named.conf.local
 named-checkzone skoda.com /etc/bind/db.skoda.com
 
 systemctl restart bind9
-systemctl status bind9 --no-pager
+systemctl status bind9 
 
-rm -rf /tmp/DNS_skoda
+rm -rf /tmp/DNS_temp
